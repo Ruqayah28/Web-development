@@ -1,0 +1,26 @@
+#photo {
+    border: 2px solid purple;
+}
+
+h1 {
+    color: rgb(133, 0, 227);
+}
+
+h2 {
+    color: rgb(162, 48, 255);
+}
+
+h3 {
+    color: rgb(162, 48, 255);
+}
+
+div {
+    margin: 4px;
+    color: rgb(127, 125, 125);
+}
+
+.bio {
+    color: rgb(127, 125, 125);
+    text-align: justify;
+}
+
